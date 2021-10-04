@@ -1,0 +1,16 @@
+.header {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white
+}
+
+.sub-header {
+    text-decoration: underline;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana;
+}
